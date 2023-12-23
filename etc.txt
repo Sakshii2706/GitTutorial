@@ -12,3 +12,5 @@ $ git checkout -- filepath
 
 Merge 2 or more git repos together :
 https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f
+
+//i changed in here yayyy..!
